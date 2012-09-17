@@ -12,7 +12,7 @@ redeye will solve all your problems!
 what is does
 ------------
 
-A redeye is a cup of coffee with an esspresso shot, a super cup of
+A redeye is a cup of coffee with an espresso shot, a super cup of
 energy. 
 
 `redeye` will make
@@ -24,6 +24,21 @@ that you what to compile to coffee script. Meaning that you can
 convert your lame javascript to coffee script, compile it back to
 javascript, then covert it to coffee script again. Repeat until
 fired.
+
+example
+-------
+
+```
+redeye
+# converts all javascript files to coffee script with js2coffee
+
+redeye -o
+# converts all javascript files to coffee script, then replaces original .js files with compiled coffee script
+
+redeye -n 5 -o
+# same as above, but will then will convert compiled coffee script files back to coffe script and recompile them again
+# the procedure will repeat 5 times, leaving terror in its wake
+```
 
 
 
