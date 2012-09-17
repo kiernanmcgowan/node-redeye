@@ -1,4 +1,4 @@
 node_modules/
-.coffee
+*.coffee
 .DS_Store
 npm-debug.log
