@@ -36,7 +36,7 @@ redeye -o
 # converts all javascript files to coffee script, then replaces original .js files with compiled coffee script
 
 redeye -n 5 -o
-# same as above, but will then will convert compiled coffee script files back to coffe script and recompile them again
+# same as above, but will convert compiled coffee script files back to coffe script and recompile them again
 # the procedure will repeat 5 times, leaving terror in its wake
 ```
 
