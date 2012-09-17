@@ -48,6 +48,7 @@ redeye -n <number of cross overs> -p <root path>
     -V, --version          output the version number
     -n, --number <number>  number of times to convert from js to coffee [1]
     -p, --path <path>      root directory path [./]
+    -o, --overwrite        overwrite existing javascript with compiled coffee script
 ```
 
 
