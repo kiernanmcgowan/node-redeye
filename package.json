@@ -1,6 +1,6 @@
 {
     "name" : "redeye",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Is your code too fast, too readable, or just too good? Redeye can fix that!",
     "dependencies": {
         "underscore" :     "1.3.3",
