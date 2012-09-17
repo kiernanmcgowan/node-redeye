@@ -7,6 +7,7 @@
         "js2coffee":       "0.2.0",
         "commander":       "1.0.4"
     },
+    "preferGlobal": true,
     "main": "./lib/redeye.js",
     "bin": {"redeye": "./bin/redeye.js"},
     "repository": {
