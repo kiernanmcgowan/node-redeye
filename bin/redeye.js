@@ -1,7 +1,9 @@
+#!/usr/bin/env node
+
 var program = require('commander');
 
 program
-  .version('0.0.4')
+  .version('0.0.5')
   .option('-n, --number <number>', 'number of times to convert from js to coffee [1]', Number, 1)
   .option('-p, --path <path>', 'root directory path [./]', String, './')
   .option('-o, --overwrite', 'overwrite existing javascript with compiled coffee script')
