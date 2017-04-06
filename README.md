@@ -1,6 +1,8 @@
 node-redeye
 -----------
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kiernanmcgowan/node-redeye.svg)](https://greenkeeper.io/)
+
 Is your code too fast, too readable, or just too good? 
 
 Quitting your job and want to leave a mess?
